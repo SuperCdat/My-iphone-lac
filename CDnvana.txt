@@ -1,0 +1,3 @@
+tên server: CDnvana
+địa chỉ server: CDnvana.aternos.me
+cổng: 41620
