@@ -1,3 +1,5 @@
 tên server: CDnvana
 địa chỉ server: CDnvana.aternos.me
 cổng: 41620
+
+link tải minecraft: https://download2431.mediafire.com/22mbza94pjtgCRSx8V-1rVK0n1jpQsKFdI3iba7-lnoAiaf7pYdAVuRCBQtpebfuw3NapPVvzBYOWjyhWCDFrBIQoAyqnOMgFehUcL1T1aLFz2MGV0nGAk14aqOcbVgf-lz6fhPhV89L8HjylBV609ppKtzCdt6GPDTjoZHDXNoD/9qw72efpy3oi109/1.21.2.02_arm32_arm64_patched.apk
